@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lhbeegle
+- 👋 Hi, I’m Lilly Beegle
 - 👀 I’m interested in digital humanities and history
 - 🌱 I’m currently learning about ancient and modern history + informatics 
 - 💞️ I’m looking to collaborate on ...
